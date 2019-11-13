@@ -1,0 +1,12 @@
+{
+  "name": "wix-architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leiteszeke/rn-architecture",
+  "author": "Ezequiel Leites <ezequiel@leites.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "engine": "latest",
+    "home": "latest"
+  }
+}
